@@ -116,10 +116,10 @@ tempdf <- data.frame(matrix(data = 0, nrow = 1, ncol = 1))
 
 
 
-for(i in uniquedf[uniquedf > 191938]){
-  #uniquedf[uniquedf > 1
+for(i in uniquedf[uniquedf > 1]){
+  #uniquedf[uniquedf > 191938
   
-  i=68448
+  #i=68448
   #i=c("C:\\Users\\scott\\Desktop\\gamestest\\new\\1\\13.xml")
   j=sprintf("https://www.boardgamegeek.com/xmlapi/boardgame/%i?&stats=1",i)
   
