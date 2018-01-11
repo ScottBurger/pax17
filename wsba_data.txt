@@ -1,0 +1,304 @@
+date	cat	place	Rider	95% (of 20min) wkg	Avg watts	est kg	normalized watts	Avg wkg	5m wkg	1m wkg	15s wkg
+6-Dec	A 	1	 L egg Upp	4	416	104		4.2			
+6-Dec	A 	2	 Hugo C	3.9	283	73	291	4	4.6	6	8.8
+6-Dec	A 	3	 Liam O'Brien WBR (A)	3.9	274	70		4			
+6-Dec	A 	4	 Eugene ChanHPP Racing	3.9	256	66	262	4.1	4.4	5.6	7.6
+6-Dec	A 	5	 Sean Crooks	3.9	284	73	294	4	4.6	5.5	7.5
+6-Dec	A 	6	 Mike MurdinDBR	3.9	306	78		4.1	4.5	5	6.1
+6-Dec	A 	7	 Scott Rickard	3.6	283	79	295	3.6	4.3	5	6.5
+6-Dec	B 	1	 Steve Mieczkowski	3.8	293	77	302	3.9	4.3	5	6.9
+6-Dec	B 	2	 Scott OosterveenS9R	3.5	290	83	307	3.6	4.2	5.9	9.9
+6-Dec	B 	3	 Richie StrongLVE	3.7	259	70	272	3.9	4.3	5.8	9.6
+6-Dec	B 	4	 Chris Quast	3.5	274	78	289	3.6	4	5	9.1
+6-Dec	B 	5	 E. Flynn Cyclery	3.9	272	70		4			
+6-Dec	B 	6	 Tom Hackleman	3.6	266	74	285	3.6	4.1	5.2	8.3
+6-Dec	B 	7	 Mike Zimski	3.6	289	80	303	3.7	4.2	6	7.9
+6-Dec	B 	8	 Ty DriskelTeamODZ	3.8	270	71	280	3.8	4.2	5.2	7
+6-Dec	B 	9	 Ken Daugherty	3.9	292	75	296	4	4.4	4.8	6.7
+6-Dec	B 	10	 Jeff ReedDBR	3.5	287	82	295	3.5	4.2	4.8	5.3
+6-Dec	B 	11	 Ge WangAudi	3.7	273	74	279	3.8	4	5.1	8.1
+6-Dec	B 	12	 Bradlee Haley	2.9	227	78		2.9			
+6-Dec	B 	13	 Alex Colwill	3.4	232	68		3.5	3.9	4.4	7
+6-Dec	B 	14	 Andrew Pryhuber [LVE]	3.2	241	75		3.2			
+6-Dec	B 	15	 Skyler StreetKISS RT	2.6	240	92	249	2.7	3.3	3.9	4.9
+6-Dec	C 	1	 Brian ConnorsSLTC	2.8	269	96	283	2.8	3.6	5.8	6.5
+6-Dec	C 	2	 Ray Daniels	3	265	88		3.1			
+6-Dec	C 	3	 Matt Molzan (C-45+)	3	235	78		3			
+6-Dec	C 	4	 John Adams ORZ 3154	3	236	79		3.1			
+6-Dec	C 	5	 Z-Dog Peterson	3	234	78		3.1	3.4	3.8	4.5
+6-Dec	C 	6	 Andre' Gonzalez	2.9	237	82		2.9			
+6-Dec	C 	7	 Thomas Powers (C)	2.8	222	79		2.8			
+6-Dec	C 	8	 Bob ChristensenTeamODZ	2.7	182	67	189	2.5	2.9	3.3	4.6
+6-Dec	C 	9	 Kent Blankenship	2.7	223	83	230	2.6	3.1	3.5	6.2
+6-Dec	C 	10	 Dee Dee	2.8	280	100	286	2.9	3.2	4.2	6
+6-Dec	C 	11	 Jeff Nettles	2.7	220	81	249	2.6	3.2	5.2	8
+6-Dec	C 	12	 Jeremy Cucco	2.8	174	62	183	2.5	3.2	3.7	6.4
+6-Dec	C 	13	 DJ T-W Fell Swoop	2.4	203	85		2.4			
+6-Dec	C 	14	 Mathew Goddard	2.3	186	81	196	2.3	2.8	3.2	5
+6-Dec	D 	1	 Shane Whigam	2.4	183	76	191	2.5	3	3.7	4.4
+6-Dec	D 	2	 Ryan Perlman	1.8	166	92	182	1.5	2.2	2.8	3.6
+6-Dec		DQ	 Willy DJAudi	4	325	81	341	4.1	5	5.6	7.7
+6-Dec		DQ	 Eliot Pitney downeastracing B	3.6	288	80		3.6			
+6-Dec		DQ	 Ryan Brown	3.9	294	75		3.9			
+6-Dec		DQ	 Logan Gregory	3.2	254	79	264	3.1	3.7	5	5.3
+6-Dec		DQ	 Mike Rauch	3.4	249	73		3.4			
+6-Dec		DQ	 Scott Burger (LVE)	3.2	204	64	207	3.1	3.5	3.9	5
+6-Dec		DQ	 Boogey Man	3.6	118	33	123	2.6	4.3	4.6	6
+6-Dec		DQ	 Kevin Kellogg	2.6	219	84	237	2.5	3.4	5	7.6
+6-Dec		DQ	 Cliff Ray	2.8	170	61	186	2.7	4	5.7	7
+6-Dec		DQ	 Shane Devlin	2.5	234	94	251	2.6	3.6	4.5	6.1
+6-Dec		DQ	 Travis Dougan	2.6	232	89	242	2.6	3.3	4.1	5.6
+6-Dec		DQ	 Joe Donosaur	2.5	160	64		2.5			
+6-Dec		DQ	 Michael Jacobs	2.8	208	74		2.9			
+6-Dec		DQ	 Eric W	2.5	210	84	218	2.4	2.9	3.5	5.1
+6-Dec		DQ	 Christie Fix (D) 	2.7	171	63		2.8			
+6-Dec		DQ	 Carlo Malana	2.7	187	69	194	2.6	3.1	3.5	4.6
+13-Dec	A 	1	 Justin Wagner ZTeamODZ	4.4	362	82	377	4.4	5.4	7.2	10.9
+13-Dec	A 	2	 Thomas HoranTeamODZ	4.3	286	67	302	4.4	5.2	7.6	11.7
+13-Dec	A 	3	 Mike MurdinDBR	3.9	301	77	308	4	4.6	6	9.1
+13-Dec	A 	4	 Mac Potter YYC A	3.9	294	75	308	4	4.7	6.3	9.4
+13-Dec	A 	5	 Eugene ChanHPP Racing	3.8	249	66	258	4	4.4	6	8.3
+13-Dec	A 	6	 Mitchell Edbauer	3.8	307	81	315	4	4.4	5.5	8.2
+13-Dec	A 	7	 James Wood [PCP] (A)	3.7	295	80	302	3.8	4.3	5.1	6.1
+13-Dec	B 	1	 Scott Miller	3.9	270	69	287	3.9	4.5	6.1	9
+13-Dec	B 	2	 Jeff ReedDBR	3.4	293	86	305	3.6	4.1	5.2	8.5
+13-Dec	B 	3	 Richie StrongLVE	3.6	254	71	267	3.7	4.4	5.8	9.8
+13-Dec	B 	4	 Ken Daugherty	3.7	279	75	288	3.8	4.4	5.6	9.1
+13-Dec	B 	5	 Brad Halstead OOA	3.9	268	69	278	4.1	4.7	6.3	9.6
+13-Dec	B 	6	 Rick HeckenlaibleAudi	3.8	264	69	273	3.9	4.5	5.5	8.1
+13-Dec	B 	7	 Chris Quast	3.6	282	78	297	3.7	4.2	5.1	8.4
+13-Dec	B 	8	 David Gordon	3.7	241	65	247	3.7	4.2	5.1	6.2
+13-Dec	B 	9	 Sage VannTTNW	2.9	297	102	311	2.9	3.4	4.4	5.9
+13-Dec	B 	10	 Julian SohAudi	3.8	219	58	227	3.7	4.3	5.3	7.1
+13-Dec	B 	11	 Zack Moss 	3.7	297	80		3.7			
+13-Dec	B 	12	 Jason Ingram	3.3	250	76	255	3.3	4	4.6	5.5
+13-Dec	B 	13	 Dave Chip_LVE	3.1	220	71		3			
+13-Dec	B 	14	 Beno Lozano	2.9	221	76	227	2.9	3.3	3.9	5.2
+13-Dec	C 	1	 Viet LeTeamODZ	3.1	231	75	249	3.2	4.5	6	7.1
+13-Dec	C 	2	 Greg Reilly	2.8	239	85	246	2.9	3.6	4.9	8.6
+13-Dec	C 	3	 Bob ChristensenTeamODZ	2.7	202	75	208	2.7	3.2	4.1	7
+13-Dec	C 	4	 Matt Lewis	2.9	252	87	264	2.9	3.7	4.5	6.3
+13-Dec	C 	5	 Darin Boyd (virtual) (Zone5) (C)Zone5 Racing	2.6	234	90	244	2.8	3.4	4.5	6.1
+13-Dec	C 	6	 Jeff Nettles	2.6	230	88	238	2.7	3.2	3.7	4.7
+13-Dec	C 	7	 Z-Dog Peterson	3.1	239	77	243	3.2	3.5	4.2	4.8
+13-Dec	C 	8	 Vincent 'Vinny' CintroTeam Type 1	2.7	200	74	208	2.6	3.2	3.8	4.7
+13-Dec	C 	9	 Zach JuracichLVE	3	229	76	238	2.9	3.5	4.6	9.5
+13-Dec	C 	10	 Wes Parkinson	2.7	220	81	232	2.5	3.3	4	7.7
+13-Dec	C 	11	 Dan Eyman RCC	3	232	77	237	3.1	3.7	4.2	5.8
+13-Dec	C 	12	 Jeremy Cucco	2.8	187	67	193	2.7	3.2	3.9	4.4
+13-Dec	C 	13	 Lou McGranaghan	2.8	177	63	184	2.6	3.1	3.6	5.1
+13-Dec	C 	14	 Boogey Man	3	117	39	125	2.6	3.6	4.4	5.2
+13-Dec	C 	15	 Mathew Goddard	2.3	198	86	212	2.4	2.8	3.9	5.3
+13-Dec	C 	16	 Nicholas Rotter	2.7	166	61	179	2.6	3.2	4.1	7.5
+13-Dec	D 	1	 Ryan Semeleer	2	177	89	181	2	2.4	2.6	3.3
+13-Dec		DQ	 Nick Zendler	4.4	314	71	334	4.3	5.2	6.7	11.8
+13-Dec		DQ	 Willy DJAudi	4	322	81	342	4.1	4.7	5.9	9.8
+13-Dec		DQ	 Matt Dente (Fell Swoop)	3.3	206	62	213	3.3	4.3	5.5	7.9
+13-Dec		DQ	 Scott Burger (LVE)	3.2	217	68	222	3.3	3.7	5.2	7.8
+13-Dec		DQ	 Dan Swatman	3.4	281	83	287	3.4	4.1	5.1	7
+13-Dec		DQ	 Isaac Juracich (LVE)LVE	3.6	177	49	186	3.9	4.4	5.8	6.7
+13-Dec		DQ	 Cliff Ray	3.2	207	65	215	3.3	3.9	4.8	5.9
+13-Dec		DQ	 bret sehorn	3.6	242	67	263	3.4	4.6	5.6	5.9
+13-Dec		DQ	 Duncan Coulby	3.2	219	68	226	3.1	4.2	4.8	6.7
+13-Dec		DQ	 SungMoon Bin	3	249	83	260	2.8	3.7	4.1	4.3
+13-Dec		DQ	 Eric Rothman	2.6	219	84	227	2.6	2.9	3.7	4.4
+20-Dec	A 	1	 Justin Wagner ZTeamODZ	4.5	367	82	391	4.5	5.1	6.7	12.1
+20-Dec	A 	2	 Thomas HoranTeamODZ	4.1	268	65	292	4.1	5.3	7.9	10.8
+20-Dec	A 	3	 Nick Zendler	4.6	334	73	351	4.6	5.5	7.4	8.2
+20-Dec	A 	4	 Willy DJAudi	4.2	342	81	357	4.3	4.8	5.9	8.3
+20-Dec	A 	5	 Rick HeckenlaibleAudi	4	267	67	282	3.9	4.8	5.6	8.1
+20-Dec	A 	6	 Eugene ChanHPP Racing	3.9	254	65	259	4	4.5	5.5	8.8
+20-Dec	A 	7	 Scott Miller	3.7	263	71	274	3.8	4.7	6.2	8.3
+20-Dec	B 	1	 Richie StrongLVE	3.5	243	69	268	3.6	4.1	5.6	11.2
+20-Dec	B 	2	 Adam LovingTTNW	3.4	254	75	285	3.4	4.1	5.8	9.2
+20-Dec	B 	3	 Chris Quast	3.6	278	77	304	3.7	4.1	5.6	11.2
+20-Dec	B 	4	 Tom Hackleman	3.5	259	74	281	3.5	4.1	5.3	8.4
+20-Dec	B 	5	 Matt Dente (Fell Swoop)	3.4	219	64	227	3.5	4.1	5	6.4
+20-Dec	B 	6	 Dan Swatman	3.5	288	82	294	3.5	4	5	6.9
+20-Dec	C 	1	 Alex Ihnen	2.9	226	78	253	2.9	4.1	6.3	10
+20-Dec	C 	2	 Bob ChristensenTeamODZ	2.6	198	76	210	2.7	3.3	4.4	5.2
+20-Dec	C 	3	 Bart Heer	3.1	289	93	298	3.1	3.4	4.4	6.3
+20-Dec	C 	4	 Scott Burger (LVE)	3.1	209	67	215	3.2	3.8	5.4	8.5
+20-Dec	C 	5	 Mindy St. Onge Team Fearless	2.9	188	65	192	3	3.3	3.8	4.5
+20-Dec	C 	6	 Martin Ross	2.9	238	82	244	2.9	3.5	4.5	7.4
+20-Dec	C 	7	 Jim Wright 🇺🇸TTNW	2.9	261	90	268	2.8	3.3	4.3	7
+20-Dec	C 	8	 Andrew Beaufils	2.7	203	75	214	2.7	3.2	4	5
+20-Dec	C 	9	 Zach JuracichLVE	2.9	223	77	232	2.8	3.5	4.2	4.4
+20-Dec	C 	10	 Javier Hernandez	3	236	79	243	2.7	3.5	4.6	5.2
+20-Dec	C 	11	 Lou McGranaghan	2.6	181	70	187	2.6	3.1	3.8	6
+20-Dec	C 	12	 DJ T-W FSP (C)	2.3	194	84	207	2.4	2.8	3.6	6.6
+20-Dec	C 	13	 greg welton	2.4	205	85		2.5	2.8	3.4	4.1
+20-Dec	D 	1	 Kevin Kellogg	2.4	212	88	245	2.4	3	4.1	7.2
+20-Dec	D 	2	 Bobby Humphrey	2.3	200	87	205	2.3	2.6	3.1	4.5
+20-Dec	D 	3	 Joseph Guerrero	1.6	133	83	137	1.6	1.9	2.3	2.7
+20-Dec		DQ	 Z-Dog Peterson	3.2	247	77	252	3.3	3.8	5.1	6.5
+20-Dec		DQ	 Isaac Juracich (LVE)LVE	3.6	166	46	174	3.7	4.8	6.7	7.8
+20-Dec		DQ	 bret sehorn	3.7	252	68	273	3.5	4.5	5.7	5.9
+20-Dec		DQ	 David Chinn	3.3	284	86	305	3.3	4.7	6.4	8.2
+20-Dec		DQ	 L smile 	3.6	192	53	194	3.8	4.2	4.7	6.2
+20-Dec		DQ	 Tony Olson	3.2	183	57	197	3.2	4.3	5.8	6.1
+3-Jan	A 	1	 祁 崧Team +1S	4.5	283	63	302	4.6	5.4	6.9	10.1
+3-Jan	A 	2	 Willy DJAudi	4.2	338	80	361	4.3	4.9	6.1	9.1
+3-Jan	A 	3	 Eugene ChanHPP Racing	3.9	257	66	272	4.1	4.6	6.2	12
+3-Jan	A 	4	 K ToyTeam ZWC	3.9	250	64	264	4	4.6	6.5	11.1
+3-Jan	A 	5	 Rick HeckenlaibleAudi	3.8	259	68	275	3.8	4.6	5.8	8.7
+3-Jan	A 	6	 James Wood (A-/B+)	3.7	287	78	294	3.7	4.2	4.8	6.1
+3-Jan	A 	7	 Danger Panda	4.1	272	66	285	3.7	4.9	5.1	6.1
+3-Jan	A 	8	 Kevin Kellogg	2.7	237	88	254	2.7	3.2	4.2	6.3
+3-Jan	A 	9	 Karine Valliant-Saunders 	3.2	183	57		3.2			
+3-Jan	A 	10	 Chad Spence evr (c)	2.2	201	91	206	2.2	2.6	3.3	4.5
+3-Jan	B 	1	 Tony Paez	3.7	298	81	318	3.8	4.4	6.3	13.2
+3-Jan	B 	2	 Paul JamiesonRaceWBR	3.4	247	73	269	3.5	4.2	5.7	10.4
+3-Jan	B 	3	 Ken Daugherty	3.9	295	76	304	4.1	4.6	5.6	7.6
+3-Jan	B 	4	 Bradlee Haley	3.3	251	76	266	3.4	3.9	5.1	10.8
+3-Jan	B 	5	 Chris Quast	3.5	278	79	298	3.7	4.2	5.4	8.2
+3-Jan	B 	6	 Richie StrongLVE	3.6	256	71	280	3.8	4.7	6.5	8.4
+3-Jan	B 	7	 Matt Salbenblatt	3.9	286	73	301	3.9	4.4	5.5	7.4
+3-Jan	B 	8	 Adam LovingTTNW	3.4	257	76	276	3.4	4	5.4	7.4
+3-Jan	B 	9	 Colin JamiesonRaceWBR	3.4	240	71	257	3.4	4	4.9	7.6
+3-Jan	B 	10	 Ty DriskelTeamODZ	3.8	269	71	280	3.8	4.3	5.3	9.2
+3-Jan	B 	11	 Jason Connellapex racing	3.2	267	83	281	3.1	3.7	4.8	8
+3-Jan	B 	12	 Dave Chip_(LVE)	3.6	255	71	261	3.8	4.3	5.1	7.5
+3-Jan	B 	13	 David Gordon	3.9	250	64	256	3.8	4.3	5.1	6.9
+3-Jan	B 	14	 Z-Dog Peterson	3.3	250	76	255	3.3	3.8	5.1	8.2
+3-Jan	B 	15	 Youjustgot Notarized (b)	3.3	254	77	260	3.4	3.9	4.9	6.8
+3-Jan	B 	16	 A. LaVeineAudi	3.4	279	82	288	3.3	3.8	4.5	5.9
+3-Jan	B 	17	 yoo yoo	3.8	258	68		3.6			
+3-Jan	B 	18	 Chad Clarke	3.4	255	75	264	3.3	3.9	5	5.8
+3-Jan	B 	19	 Isaac Juracich (LVE)LVE	3.7	171	46	180	3.4	4.4	5.6	6.9
+3-Jan	B 	20	 Zack Moss 	3.6	277	77	287	3.5	4.2	4.9	6.9
+3-Jan	B 	21	 Luis RodriguezIA-LRT	3.5	206	59	212	3.6	4.3	5.3	7.3
+3-Jan	B 	22	 William Martin	3.4	224	66	241	3.3	4	4.9	6.9
+3-Jan	B 	23	 Cliff Ray	3.2	205	64	211	3.2	3.9	5.4	6.1
+3-Jan	B 	24	 Andrew Pryhuber [LVE]	3.1	241	78	247	3.2	3.9	4.7	8.7
+3-Jan	B 	25	 L JUNG HAN	2.9	202	70	208	3	3.3	4.5	6.6
+3-Jan	B 	26	 Brad Halstead OOA	3.8	246	65	254	3.7	4.2	5.2	9
+3-Jan	B 	27	 Jadine Riley 	2.9	180	62	188	2.7	3.3	4	5
+3-Jan	B 	28	 Daniel Perry (B)	3.8	211	56	262	2.7	4.3	4.9	6.4
+3-Jan	C 	1	 Greg Reilly	3	247	82	258	3	4	5.3	7.2
+3-Jan	C 	2	 Reeve Geary	2.3	240	104	253	3.5	2.9	3.5	5.1
+3-Jan	C 	3	 Travis Dougan	3.1	270	87	288	3.1	4	4.8	7.1
+3-Jan	C 	4	 Chris Nadeau	2.8	287	103	297	2.9	3.4	4.4	5.4
+3-Jan	C 	5	 Sage VannTTNW	2.7	286	106	298	2.7	3.2	4	5.8
+3-Jan	C 	6	 Steven Moe	2.7	235	87	247	2.8	3.5	4.2	5.7
+3-Jan	C 	7	 Frank Colich	2.7	274	101	281	2.8	3.2	4.1	5.5
+3-Jan	C 	8	 Jim Wright 🇺🇸TTNW	2.8	263	94		2.8	3.2	4	6.8
+3-Jan	C 	9	 Jeff Ledford WBR (C)	3	244	81	252	3.2	3.6	4.6	5.6
+3-Jan	C 	10	 Ted Chauvin	2.9	228	79	235	3	3.4	4.4	5.3
+3-Jan	C 	11	 Mindy St. Onge Team Fearless	2.9	182	63	186	2.9	3.3	4.4	4.9
+3-Jan	C 	12	 Zach JuracichLVE	2.9	219	76	230	2.8	3.8	4.9	5.4
+3-Jan	C 	13	 Jeff Nettles	2.4	209	87		2.4			
+3-Jan	C 	14	 james buchanan	2.4	205	85	220	2.3	3.1	4.2	5.9
+3-Jan	C 	15	 Mathew Goddard	2.4	200	83	211	2.5	3	3.9	4.5
+3-Jan	C 	16	 C Anton	2.7	200	74	216	2.4	3.2	4.4	6.3
+3-Jan	C 	17	 Lou McGranaghan	2.7	147	54	165	2.2	3.3	4.3	4.9
+3-Jan	C 	18	 Shane Devlin	2.2	174	79	189	1.9	3.1	4	6.1
+3-Jan	D 	1	 Kent Reed	2.1	186	89	196	2.2	2.8	3.6	3.8
+3-Jan	D 	2	 Chris Taylor (D)	2.2	205	93	214	2.1	2.8	3.4	3.9
+3-Jan	D 	3	 Ryan Perlman	1.9	176	93	190	1.6	2.3	2.8	3.7
+3-Jan	D 	4	 Dale Harless / D	2	136	68	141	1.9	2.3	2.8	3.4
+3-Jan	D 	5	 Michael Brod (D)	1.8	165	92	174	1.6	2.2	2.4	2.8
+3-Jan		DQ	 I M Richard	5.2	321	62	338	5.4	6.4	7.6	10.4
+3-Jan		DQ	 泰志 添田	4.3	230	53	235	4.4	4.9	5.9	7.2
+3-Jan		DQ	 Merrrie [RNJKG] 	4.3	198	46	209	4	5.1	6.7	10.8
+3-Jan		DQ	 Darren McClellanTeam AHDR	4.2	263	63	271	3.9	5.2	5.6	6.2
+3-Jan		DQ	 Juan O.RodriguezIA-LRT	3.2	222	69	230	3.2	3.6	4.8	7
+3-Jan		DQ	 Paul Coffee (C)	3.3	251	76	267	3.3	4.1	5.1	6.8
+3-Jan		DQ	 Scott Burger (LVE)	3.2	205	64	212	3.1	3.6	4.5	7.8
+3-Jan		DQ	 Zack Belew	3.2	238	74	248	3.1	4.1	4.6	5.1
+3-Jan		DQ	 bret sehorn	3.4	209	61	242	2.6	4.4	5.9	5.9
+3-Jan		DQ	 Ryan WellsNTCC	2.7	261	97	283	2.7	3.2	4.9	7.2
+3-Jan		DQ	 PIPPO Capraro Plastic Surgery	2.5	231	92	249	2.6	3.1	3.7	5.6
+3-Jan		DQ	 Andy Foltz	2.7	244	90	250	2.6	3.1	3.7	4
+3-Jan		DQ	 Jake Andrews	3.3	217	66	225	3	3.7	4.6	6.1
+3-Jan		DQ	 gina kavesh 	2.9	195	67	197	2.9	3.3	3.6	4
+3-Jan		DQ	 Takeru koshi	3	149	50	163	2.7	3.3	4	4.6
+10-Jan	A 	1	 Justin Wagner ZTeamODZ	4.1	329	80	366	4	5.1	7.3	12.1
+10-Jan	A 	2	 Gary Loafman	4.6	299	65	325	4.5	5.6	7.5	11.7
+10-Jan	A 	3	 Jesse Young	4	302	76	332	4	5	6.9	10.6
+10-Jan	A 	4	 Willy DJAudi	4.3	348	81	369	4.4	5.1	6.5	9.9
+10-Jan	A 	5	 Thomas HoranTeamODZ	4.3	287	67	305	4.4	5.3	7.1	9.2
+10-Jan	A 	6	 Eugene ChanHPP Racing	4.2	266	63	278	4.2	4.8	6.4	8.7
+10-Jan	A 	7	 Kai K	4	317	79	345	4	5.6	6.4	10.9
+10-Jan	A 	8	 Dave Chip_(LVE)	3.8	268	71	273	3.9	4.3	5.2	7.3
+10-Jan	A 	9	 Mike MurdinDBR	4	315	79		4.1	4.7	5.3	5.4
+10-Jan	B 	1	 Ben Petzoldt	3.5	264	75	277	3.6	4.3	7.3	12.1
+10-Jan	B 	2	 David Hose 🔥	3.6	258	72	273	3.8	4.7	7.3	11.4
+10-Jan	B 	3	 Bradlee Haley	3.3	258	78	270	3.5	4.1	6.4	10.7
+10-Jan	B 	4	 Richie StrongLVE	3.6	253	70	275	3.7	4.5	7.5	9.6
+10-Jan	B 	5	 Ken Daugherty	3.8	293	77	297	4	4.5	6	7.9
+10-Jan	B 	6	 Jeff ReedDBR	3.4	287	84	295	3.5	4.1	5.7	7.6
+10-Jan	B 	7	 Erik Lehmann	3	311	104	323	3.2	3.8	4.9	6.9
+10-Jan	B 	8	 ZIPP Draper (ZHR)	3.4	314	92	334	3.6	4.1	6.2	7.3
+10-Jan	B 	9	 Ted Buchanan	3.3	328	99	333	3.4	3.8	5.2	7.4
+10-Jan	B 	10	 Mark Caviness	3.4	268	79	275	3.6	4	5.2	6.2
+10-Jan	B 	11	 Adam LovingTTNW	3.4	267	79	278	3.6	4.1	5.5	6.3
+10-Jan	B 	12	 David Gordon	3.8	257	68	261	4	4.3	5.3	6.1
+10-Jan	B 	13	 ᴛᴏᴅᴅ 	3.4	255	75	263	3.6	4.2	5.2	6.4
+10-Jan	B 	14	 Rob Beard	3.6	270	75	274	3.8	4.3	4.9	6.3
+10-Jan	B 	15	 Jesse Nofziger[LVE](B)	3.4	275	81	281	3.6	4.1	4.8	6.1
+10-Jan	B 	16	 Matt Dente (Fell Swoop)	3.7	241	65	244	3.9	4.2	4.9	6.5
+10-Jan	B 	17	 Allison Chauvin 	3.5	215	61	218	3.7	4.1	4.5	5.1
+10-Jan	B 	18	 Andre' Gonzalez	3.3	261	79	266	3.3	3.7	4.4	5.2
+10-Jan	B 	19	 Eric Grant	3.1	291	94	298	3.1	3.5	4.3	4.8
+10-Jan	B 	20	 Chris Quast	3.3	270	82	282	3.5	4.4	5.9	6.4
+10-Jan	B 	21	 Joseph Thomas	3.8	220	58	229	3.9	4.5	5.5	6.9
+10-Jan	B 	22	 Daniel Perry (B)	3.7	284	77	296	3.6	4.2	4.8	5.5
+10-Jan	B 	23	 Chris Jackson	3.2	262	82	278	3	3.6	4.6	6.5
+10-Jan	B 	24	 Sean Phillips	3.4	239	70	245	3.3	3.9	4.6	6.8
+10-Jan	B 	25	 Frank Colich	3	290	97	299	2.9	3.5	4.3	5.2
+10-Jan	B 	26	 Z-Dog Peterson	3.3	235	71	242	3.1	4	4.7	6
+10-Jan	B 	27	 Zack Moss	3.4	283	83	291	3.6	4.5	5.3	5.9
+10-Jan	B 	28	 Andrew Pryhuber [LVE]	3.5	261	75		3.5	3.9	4.6	7.9
+10-Jan	B 	29	 I ngy dot Net (B Metier)	3.2	257	80	276	3	3.9	4.7	7.6
+10-Jan	B 	30	 Jason Corbridge [SeattleCCA]	2.8	257	92	268	2.8	3.5	4.4	5.9
+10-Jan	B 	31	 Cliff Ray	2.8	178	64	183	2.8	3.4	4.1	5.4
+10-Jan	B 	32	 D Katz (B)	3.1	252	81	265	2.8	3.7	4.4	5.5
+10-Jan	C 	1	 Travis Dougan	3.1	277	89	288	3.2	3.6	5.1	6.5
+10-Jan	C 	2	 james buchanan	3	259	86	272	2.9	3.8	4.8	5.5
+10-Jan	C 	3	 Paul Coffee (C)	3	243	81	254	3.1	3.7	5.9	8.4
+10-Jan	C 	4	 Bart Heer	3	293	98	299	3.1	3.5	4.8	7.6
+10-Jan	C 	5	 Sage VannTTNW	2.7	287	106	301	2.8	3.1	4.3	5.5
+10-Jan	C 	6	 Thomas Harrison	3.1	253	82	261	3.2	3.6	4.8	7.2
+10-Jan	C 	7	 Adrian KoukoulasAudi	3.1	223	72	246	3.1	3.9	5.7	11.2
+10-Jan	C 	8	 Zach JuracichLVE	3.1	233	75	244	2.9	3.7	5.1	8.5
+10-Jan	C 	9	 Bob ChristensenTeamODZ	2.6	196	75	204	2.6	3.3	4.1	6.1
+10-Jan	C 	10	 Jim Wright 🇺🇸TTNW	2.9	262	90	266	2.8	3.5	4.1	5.4
+10-Jan	C 	11	 Ted Chauvin	2.9	228	79	234	3	3.5	4.4	5.1
+10-Jan	C 	12	 rSLO elke	2.8	237	85	244	2.8	3.3	4	4.9
+10-Jan	C 	13	 Joe Hall	3	262	87	271	3.1	3.6	5.1	9.7
+10-Jan	C 	14	 Mike Grafham	3.1	230	74	242	3	3.7	4.6	6.1
+10-Jan	C 	15	 Mindy St. Onge Team Fearless	2.8	181	65	186	2.9	3.5	4.4	5.9
+10-Jan	C 	16	 Chris Nakahara wsba (c)	2.8	195	70		2.9			
+10-Jan	C 	17	 Jason CostanzaEgencia	3	178	59	187	2.8	3.7	4.7	5.8
+10-Jan	C 	18	 Dan EymanRCC	3	220	73	226	2.9	3.5	4.4	5.8
+10-Jan	C 	19	 Dale Bigelow	2.5	222	89	227	2.6	2.9	3.3	4.6
+10-Jan	C 	20	 Saul Gutierrez 	2.8	177	63	188	2.6	3.7	4.3	6.7
+10-Jan	C 	21	 Lou McGranaghan	2.5	165	66	173	2.4	2.9	3.5	4.6
+10-Jan	C 	22	 Boogey Man	2.7	120	44	127	2.7	3.5	4.8	5.6
+10-Jan	C 	23	 Shane Devlin	2.5	210	84	220	2.3	3.2	3.9	4.5
+10-Jan	D 	1	 John Olander	2.2	202	92	212	2.2	2.5	3.2	4.7
+10-Jan	D 	2	 Kent Reed	2.3	201	87	209	2.3	2.9	3.4	4
+10-Jan	D 	3	 C. Stan	2.3	156	68	159	2.4	2.6	3.1	4.1
+10-Jan	D 	4	 Heimlich-itza Maneuver	2.1	181	86	188	2.1	2.4	3	4.8
+10-Jan	D 	5	 J. Dean	1.9	145	76	154	1.8	2.2	2.9	6.1
+10-Jan	D 	6	 Dale Harless / D	1.9	132	69	139	1.8	2.3	2.8	3.4
+10-Jan		DQ	 Billy RappleyeZone5 Racing	4.2	298	71	307	4.3	5	7.3	10.6
+10-Jan		DQ	 Isaac Juracich (LVE)LVE	4	203	51	209	4.3	5	6	7.2
+10-Jan		DQ	 Ben Di Qual	4	352	88	359	4.1	4.5	5.2	6.9
+10-Jan		DQ	 Erik Olson	3.5	275	79	283	3.4	4.2	4.8	6.1
+10-Jan		DQ	 Dan Swatman	3.2	270	84	276	3.3	3.8	4.8	6.9
+10-Jan		DQ	 Paul Venturelli	3.4	247	73	250	3.5	3.9	4.6	5.5
+10-Jan		DQ	 Scott Burger (LVE)	3.2	209	65	215	3.2	3.8	4.5	5.6
+10-Jan		DQ	 C Anton DIALED	3.2	260	81	266	3.1	3.6	4.4	5.9
+10-Jan		DQ	 Jeremy Cucco	3.2	216	68	221	3.2	3.7	4.6	5.4
+10-Jan		DQ	 bret sehorn	3.7	260	70	284	3.6	4.7	5.4	5.6
+10-Jan		DQ	 Jon Hailey	4.4	339	77	401	3.9	6.5	9.3	9.8
+10-Jan		DQ	 Jason Ingram	3.3	247	75	256	3.3	3.7	4.8	6.7
+10-Jan		DQ	 Quinn Dusenberry (B)Egencia	3.2	269	84	273	3.3	3.6	4	5.1
+10-Jan		DQ	 Jeff Gelt	2.9	219	76	225	2.9	3.6	5.6	10
+10-Jan		DQ	 tracy clark 	3.2	175	55	177	3.3	3.7	4.5	6.2
+10-Jan		DQ	 Jeffrey Trudel (D)	3.2	197	62	201	3.2	3.6	5	7.1
+10-Jan		DQ	 Dan Arildson	2.6	253	97	258	2.6	2.9	3.5	6
+10-Jan		DQ	 Adam Hubbard	2.8	204	73	215	2.8	3.5	3.8	5.3
+10-Jan		DQ	 Neil Westfall	2.5	211	84	219	2.5	3	3.5	7
